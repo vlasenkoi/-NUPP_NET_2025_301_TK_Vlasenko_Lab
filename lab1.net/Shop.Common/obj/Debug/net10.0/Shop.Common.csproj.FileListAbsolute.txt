@@ -1,0 +1,11 @@
+C:\Users\impos\OneDrive\Desktop\.net\lab1.net\Shop.Common\bin\Debug\net10.0\Shop.Common.deps.json
+C:\Users\impos\OneDrive\Desktop\.net\lab1.net\Shop.Common\bin\Debug\net10.0\Shop.Common.dll
+C:\Users\impos\OneDrive\Desktop\.net\lab1.net\Shop.Common\bin\Debug\net10.0\Shop.Common.pdb
+C:\Users\impos\OneDrive\Desktop\.net\lab1.net\Shop.Common\obj\Debug\net10.0\Shop.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\impos\OneDrive\Desktop\.net\lab1.net\Shop.Common\obj\Debug\net10.0\Shop.Common.AssemblyInfoInputs.cache
+C:\Users\impos\OneDrive\Desktop\.net\lab1.net\Shop.Common\obj\Debug\net10.0\Shop.Common.AssemblyInfo.cs
+C:\Users\impos\OneDrive\Desktop\.net\lab1.net\Shop.Common\obj\Debug\net10.0\Shop.Common.csproj.CoreCompileInputs.cache
+C:\Users\impos\OneDrive\Desktop\.net\lab1.net\Shop.Common\obj\Debug\net10.0\Shop.Common.dll
+C:\Users\impos\OneDrive\Desktop\.net\lab1.net\Shop.Common\obj\Debug\net10.0\refint\Shop.Common.dll
+C:\Users\impos\OneDrive\Desktop\.net\lab1.net\Shop.Common\obj\Debug\net10.0\Shop.Common.pdb
+C:\Users\impos\OneDrive\Desktop\.net\lab1.net\Shop.Common\obj\Debug\net10.0\ref\Shop.Common.dll
