@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="lab1.net/lab1.net.csproj" />
+  <Project Path="Shop.Common/Shop.Common.csproj" />
+</Solution>
