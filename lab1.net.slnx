@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="lab1.net/lab1.net.csproj" />
+  <Project Path="Shop.Common/Shop.Common.csproj" />
+  <Project Path="Shop.Infrastructure/Shop.Infrastructure.csproj" Id="e7c1e75c-c072-4efd-9885-4906fb0d44cf" />
+</Solution>
